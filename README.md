@@ -19,7 +19,7 @@ Double-click on a todo to switch into edit mode. You can update the title by pre
 
 
 Demo
-🔗 Live Preview
+Live Preview https://katy4s.github.io/Todo-App/
 
 Technologies Used
 React
